@@ -1,0 +1,6 @@
+  |  Nasi Mawut    30000    x3 |   
+  |  Rendang    40000    x2 |   
+  |  Mie Bihun    12000    x1 |   
+  |  Nasi Goreng Spesial    15000    x1 |   
+  -------------------------------------------   + Nama Pemesan = Simon
+  Total: Rp 97000
